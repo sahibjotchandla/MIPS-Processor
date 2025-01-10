@@ -1,0 +1,12 @@
+
+{ 
+    crc :  305386630299456250  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto 08e242753cd94eaf9c2e807d9e0a15c5 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot CPU_3380_Test_behav xil_defaultlib.CPU_3380_Test" , 
+    buildDate : "Nov  6 2019" , 
+    buildTime : "21:57:16" , 
+    linkCmd : "C:\\Xilinx\\Vivado\\2019.2\\data\\..\\tps\\mingw\\6.2.0\\win64.o\\nt\\bin\\gcc.exe -Wa,-W  -O -Wl,--stack,104857600 -o \"xsim.dir/CPU_3380_Test_behav/xsimk.exe\"   \"xsim.dir/CPU_3380_Test_behav/obj/xsim_0.win64.obj\" \"xsim.dir/CPU_3380_Test_behav/obj/xsim_1.win64.obj\" -L\"C:\\Xilinx\\Vivado\\2019.2\\lib\\win64.o\" -lrdi_simulator_kernel   -lrdi_simbridge_kernel" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 

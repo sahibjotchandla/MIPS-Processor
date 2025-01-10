@@ -1,0 +1,20 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../cpu.srcs/sources_1/imports/Part2/ALU4.vhd" \
+"../../../../cpu.srcs/sources_1/imports/Part2/ALU_16Bit3.vhd" \
+"../../../../cpu.srcs/sources_1/imports/Part2/CPU_33802.vhd" \
+"../../../../cpu.srcs/sources_1/imports/Part2/Control1.vhd" \
+"../../../../cpu.srcs/sources_1/imports/Part2/MUX312.vhd" \
+"../../../../cpu.srcs/sources_1/imports/Part2/Memory.vhd" \
+"../../../../cpu.srcs/sources_1/imports/Part2/PC_REG.vhd" \
+"../../../../cpu.srcs/sources_1/imports/Part2/Registers2.vhd" \
+"../../../../cpu.srcs/sources_1/imports/Part2/Signextend1.vhd" \
+"../../../../cpu.srcs/sources_1/imports/Part2/and_gate2.vhd" \
+"../../../../cpu.srcs/sources_1/imports/Part2/full_adder2.vhd" \
+"../../../../cpu.srcs/sources_1/imports/Part2/mux2_11.vhd" \
+"../../../../cpu.srcs/sources_1/imports/Part2/mux3_11.vhd" \
+"../../../../cpu.srcs/sources_1/imports/Part2/or_gate2.vhd" \
+"../../../../cpu.srcs/sim_1/imports/Part2/CPU_3380_Test1.vhd" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,19 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/bigja/Downloads/cpu/cpu.srcs/sim_1/imports/Part2/CPU_3380_Test1.vhd,1680485588,vhdl,,,,cpu_3380_test,,,,,,,,
+C:/Users/bigja/Downloads/cpu/cpu.srcs/sources_1/imports/Part2/ALU4.vhd,1680485588,vhdl,,,,alu,,,,,,,,
+C:/Users/bigja/Downloads/cpu/cpu.srcs/sources_1/imports/Part2/ALU_16Bit3.vhd,1680485588,vhdl,,,,alu_16bit,,,,,,,,
+C:/Users/bigja/Downloads/cpu/cpu.srcs/sources_1/imports/Part2/CPU_33802.vhd,1680472531,vhdl,C:/Users/bigja/Downloads/cpu/cpu.srcs/sim_1/imports/Part2/CPU_3380_Test1.vhd,,,cpu_3380,,,,,,,,
+C:/Users/bigja/Downloads/cpu/cpu.srcs/sources_1/imports/Part2/Control1.vhd,1680485588,vhdl,,,,control,,,,,,,,
+C:/Users/bigja/Downloads/cpu/cpu.srcs/sources_1/imports/Part2/MUX312.vhd,1680485588,vhdl,,,,mux31,,,,,,,,
+C:/Users/bigja/Downloads/cpu/cpu.srcs/sources_1/imports/Part2/Memory.vhd,1680485588,vhdl,,,,memory,,,,,,,,
+C:/Users/bigja/Downloads/cpu/cpu.srcs/sources_1/imports/Part2/PC_REG.vhd,1680485588,vhdl,,,,pc_reg,,,,,,,,
+C:/Users/bigja/Downloads/cpu/cpu.srcs/sources_1/imports/Part2/Registers2.vhd,1680485590,vhdl,,,,registers,,,,,,,,
+C:/Users/bigja/Downloads/cpu/cpu.srcs/sources_1/imports/Part2/Signextend1.vhd,1680485590,vhdl,,,,signextend,,,,,,,,
+C:/Users/bigja/Downloads/cpu/cpu.srcs/sources_1/imports/Part2/and_gate2.vhd,1680485588,vhdl,,,,and_gate,,,,,,,,
+C:/Users/bigja/Downloads/cpu/cpu.srcs/sources_1/imports/Part2/full_adder2.vhd,1680485588,vhdl,,,,full_adder,,,,,,,,
+C:/Users/bigja/Downloads/cpu/cpu.srcs/sources_1/imports/Part2/mux2_11.vhd,1680485588,vhdl,,,,mux2_1,,,,,,,,
+C:/Users/bigja/Downloads/cpu/cpu.srcs/sources_1/imports/Part2/mux3_11.vhd,1680485588,vhdl,,,,mux3_1,,,,,,,,
+C:/Users/bigja/Downloads/cpu/cpu.srcs/sources_1/imports/Part2/or_gate2.vhd,1680485588,vhdl,,,,or_gate,,,,,,,,

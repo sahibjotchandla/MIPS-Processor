@@ -1,0 +1,32 @@
+Vivado Simulator 2019.2
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2019.2/bin/unwrapped/win64.o/xelab.exe -wto 08e242753cd94eaf9c2e807d9e0a15c5 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot CPU_3380_Test_behav xil_defaultlib.CPU_3380_Test -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling architecture behavioral of entity xil_defaultlib.PC_REG [pc_reg_default]
+Compiling architecture beh of entity xil_defaultlib.Memory [\Memory(input="Instr2.txt")(1,10...]
+Compiling architecture syn of entity xil_defaultlib.Control [control_default]
+Compiling architecture syn of entity xil_defaultlib.Registers [registers_default]
+Compiling architecture syn of entity xil_defaultlib.Signextend [signextend_default]
+Compiling architecture behavioral of entity xil_defaultlib.mux2_1 [\mux2_1(width=4)\]
+Compiling architecture behavioral of entity xil_defaultlib.mux2_1 [mux2_1_default]
+Compiling architecture behavior of entity xil_defaultlib.full_adder [full_adder_default]
+Compiling architecture behavior of entity xil_defaultlib.and_gate [and_gate_default]
+Compiling architecture behavior of entity xil_defaultlib.or_gate [or_gate_default]
+Compiling architecture behavioral of entity xil_defaultlib.MUX31 [mux31_default]
+Compiling architecture behavior of entity xil_defaultlib.ALU [alu_default]
+Compiling architecture behavior of entity xil_defaultlib.ALU_16Bit [alu_16bit_default]
+Compiling architecture beh of entity xil_defaultlib.Memory [\Memory(1,6)(1,7)\]
+Compiling architecture behavioral of entity xil_defaultlib.mux3_1 [mux3_1_default]
+Compiling architecture behavioral of entity xil_defaultlib.CPU_3380 [cpu_3380_default]
+Compiling architecture mixed of entity xil_defaultlib.cpu_3380_test
+Built simulation snapshot CPU_3380_Test_behav
